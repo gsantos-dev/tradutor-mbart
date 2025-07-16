@@ -1,0 +1,39 @@
+### AI_Geral_EN.pptx.pptx ###
+Artificial Intelligence
+An overview of AI and its impact
+What is Artificial Intelligence?
+Artificial Intelligence (AI) is a field of computer science that aims to create systems capable of performing tasks that typically require human intelligence, such as learning, reasoning, and decision-making.
+Types of Artificial Intelligence
+AI can be classified into three types: Weak (or Narrow) AI, Strong (or General) AI, and Superintelligent AI. Each presents different levels of cognitive ability and autonomy.
+AI Applications
+AI is used in various fields, including healthcare, finance, transportation, and entertainment. Examples include AI-assisted medical diagnoses, recommendation algorithms, and autonomous vehicles.
+AI Challenges and Ethics
+The advancement of AI raises ethical issues and challenges, such as algorithmic bias, data privacy, and labor market impact. Regulations are being discussed to ensure responsible AI use.
+The Future of Artificial Intelligence
+The future of AI includes advancements in deep learning, quantum computing, and greater integration with the Internet of Things (IoT). Companies investing in this technology today will lead future innovation.
+
+
+### AI_Historia_en.pptx.pptx ###
+AI Evolution, Corporate Usage, and Compliance
+Explorando o mundo da Inteligência Artificial
+AI Evolution and Business Impact
+Since the 1950s, AI has advanced significantly. The development of statistical models, neural networks, and deep learning has transformed industries such as healthcare, finance, and manufacturing. Today, AI is a key driver of business automation and digital transformation.
+Corporate AI Applications
+Organizations adopt AI to optimize operations, improve customer interactions, and make data-driven strategic decisions. Examples include AI-powered chatbots for customer support, recommendation systems, and big data analytics.
+AI Ethics and Compliance
+Responsible AI usage is an increasing concern. Regulations such as GDPR and LGPD set data privacy standards. Businesses must ensure transparency, mitigate algorithmic bias, and adhere to ethical AI practices.
+
+
+### AI_Industria_en.pptx.pptx ###
+AI in Business: Challenges and Future
+Explorando o mundo da Inteligência Artificial
+AI in Business: Applications and Innovations
+AI is transforming industries by enhancing operational efficiency and innovation. In finance, AI aids in credit analysis and fraud detection. In retail, it enhances customer experience through personalized recommendations. In manufacturing, it optimizes supply chains and minimizes waste.
+Intelligent Automation and Productivity
+AI-driven automation improves operational efficiency. Businesses deploy Robotic Process Automation (RPA) to eliminate repetitive tasks, while advanced algorithms optimize logistics and product distribution.
+Challenges and Strategic Opportunities
+AI presents strategic opportunities for innovation and growth but also poses challenges such as workforce upskilling, legacy system integration, and data security concerns.
+Comparação de Algoritmos de IA
+Algoritmo	Vantagens	Desvantagens
+Neural networks	High performance	High computational cost
+Decision Trees	Easy interpretation	Tendency to overfit
