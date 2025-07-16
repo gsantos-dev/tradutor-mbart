@@ -1,4 +1,4 @@
-markdown# 🧠 Tradutor de Apresentações Empresariais com mBART
+# 🧠 Tradutor de Apresentações Empresariais com mBART
 
 Este projeto implementa um **tradutor de apresentações PowerPoint (PPTX)** baseado no modelo **mBART** da Hugging Face, adaptado para funcionar **offline** e com foco em traduções empresariais de **português para inglês**.
 
