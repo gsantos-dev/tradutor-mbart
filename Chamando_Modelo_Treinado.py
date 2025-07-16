@@ -46,9 +46,9 @@ def processar_pasta(input_folder, output_folder, model, tokenizer):
             traduzir_ppt(input_path, output_path, model, tokenizer)
 
 
-model_path = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/Modelo_Mbart_Treinado"
-input_folder = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/Input_PPTS"
-output_folder = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/Outputs_PPTS"
+model_path = "/Modelo_Mbart_Treinado"
+input_folder = "/Input_PPTS"
+output_folder = "/Outputs_PPTS"
 
 
 model, tokenizer = carregar_modelo(model_path)
