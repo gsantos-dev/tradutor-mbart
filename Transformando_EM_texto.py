@@ -31,10 +31,10 @@ def salvar_texto_unificado(caminho_entrada, caminho_saida, nome_saida):
     print(f"Texto consolidado salvo: {caminho_txt}")
 
 
-caminho_ppt_pt = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/PPTs_pt"
-caminho_ppt_en = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/PPTs_en"
-caminho_saida_pt = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/Texto_pt"
-caminho_saida_en = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/Texto_en"
+caminho_ppt_pt = "/PPTs_pt"
+caminho_ppt_en = "/PPTs_en"
+caminho_saida_pt = "/Texto_pt"
+caminho_saida_en = "/Texto_en"
 
 
 salvar_texto_unificado(caminho_ppt_pt, caminho_saida_pt, "Texto_Completo_PT.txt")
