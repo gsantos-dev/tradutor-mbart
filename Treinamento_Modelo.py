@@ -3,7 +3,7 @@ from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 from datasets import Dataset
 from torch.utils.data import DataLoader
 
-model_path = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/save_data/Meu_Modelo_mBART"
+model_path = ""
 
 tokenizer = MBart50TokenizerFast.from_pretrained(model_path)
 model = MBartForConditionalGeneration.from_pretrained(model_path)
@@ -17,8 +17,8 @@ def carregar_texto(caminho_arquivo):
         return [linha.strip() for linha in file.readlines()]
 
 
-textos_pt = carregar_texto("C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/Texto_pt/Texto_Completo_PT.txt")
-textos_en = carregar_texto("C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/Texto_en/Texto_Completo_EN.txt")
+textos_pt = carregar_texto(".txt")
+textos_en = carregar_texto(".txt")
 
 
 dataset = Dataset.from_dict({"source": textos_pt, "target": textos_en})
