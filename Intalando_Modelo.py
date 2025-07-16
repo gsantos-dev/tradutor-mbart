@@ -1,7 +1,7 @@
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 import os
 
-modelo_local = "C:/Users/Guilherme/Desktop/Projetos/Projeto_Tradutor/save_data/Meu_Modelo_mBART"
+modelo_local = "/save_data/Meu_Modelo_mBART"
 
 if not os.path.exists(modelo_local):
     print("Baixando o modelo MBART para uso offline...")
