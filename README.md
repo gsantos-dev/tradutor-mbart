@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ### 🚀 Como Usar
 ## 1. Instalar modelo base do mBART
-bash python Intalando_Modelo.py
+bash python Instalando_Modelo.py
 ## 2. Extrair textos dos arquivos PPTX
 ##bash python Transformando_EM_texto.py
 ## 3. Treinar o modelo com seus pares de tradução
